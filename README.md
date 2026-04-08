@@ -1,4 +1,5 @@
-#Key steps
+##Key steps
+
 -Data preprocessing
 Load dataset and review structure using .info() and null checks
 Remove irrelevant columns such as customer ID, gender, and tenure
